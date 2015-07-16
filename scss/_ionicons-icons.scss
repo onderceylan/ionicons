@@ -159,6 +159,11 @@
 .#{$ionicons-prefix}arrow-up-c:before,
 .#{$ionicons-prefix}asterisk:before,
 .#{$ionicons-prefix}at:before,
+.#{$ionicons-prefix}attribute-icon-garlic:before,
+.#{$ionicons-prefix}attribute-icon-hot:before,
+.#{$ionicons-prefix}attribute-icon-hot-alternative:before,
+.#{$ionicons-prefix}attribute-icon-new:before,
+.#{$ionicons-prefix}attribute-icon-yeni:before,
 .#{$ionicons-prefix}backspace:before,
 .#{$ionicons-prefix}backspace-outline:before,
 .#{$ionicons-prefix}bag:before,
@@ -180,6 +185,29 @@
 .#{$ionicons-prefix}camera:before,
 .#{$ionicons-prefix}card:before,
 .#{$ionicons-prefix}cash:before,
+.#{$ionicons-prefix}category-chicken-icon:before,
+.#{$ionicons-prefix}category-desert-icon:before,
+.#{$ionicons-prefix}category-drink-icon:before,
+.#{$ionicons-prefix}category-freshdrink-icon:before,
+.#{$ionicons-prefix}category-maki-icon:before,
+.#{$ionicons-prefix}category-meat-icon:before,
+.#{$ionicons-prefix}category-menu-icon:before,
+.#{$ionicons-prefix}category-menu-icon2:before,
+.#{$ionicons-prefix}category-nigiri-icon:before,
+.#{$ionicons-prefix}category-noodle-icon:before,
+.#{$ionicons-prefix}category-rice-icon:before,
+.#{$ionicons-prefix}category-salad-icon:before,
+.#{$ionicons-prefix}category-sashimi-icon:before,
+.#{$ionicons-prefix}category-seafood-icon:before,
+.#{$ionicons-prefix}category-soup-icon:before,
+.#{$ionicons-prefix}category-special-icon:before,
+.#{$ionicons-prefix}category-starter-icon:before,
+.#{$ionicons-prefix}category-sushimenu-icon:before,
+.#{$ionicons-prefix}category-sushimenu-icon2:before,
+.#{$ionicons-prefix}category-uramaki-icon:before,
+.#{$ionicons-prefix}category-uramaki-icon2:before,
+.#{$ionicons-prefix}category-vegan-icon:before,
+.#{$ionicons-prefix}category-vegetable-icon:before,
 .#{$ionicons-prefix}chatbox:before,
 .#{$ionicons-prefix}chatbox-working:before,
 .#{$ionicons-prefix}chatboxes:before,
@@ -895,6 +923,11 @@
 .#{$ionicons-prefix}arrow-up-c:before { content: $ionicon-var-arrow-up-c; }
 .#{$ionicons-prefix}asterisk:before { content: $ionicon-var-asterisk; }
 .#{$ionicons-prefix}at:before { content: $ionicon-var-at; }
+.#{$ionicons-prefix}attribute-icon-garlic:before { content: $ionicon-var-attribute-icon-garlic; }
+.#{$ionicons-prefix}attribute-icon-hot:before { content: $ionicon-var-attribute-icon-hot; }
+.#{$ionicons-prefix}attribute-icon-hot-alternative:before { content: $ionicon-var-attribute-icon-hot-alternative; }
+.#{$ionicons-prefix}attribute-icon-new:before { content: $ionicon-var-attribute-icon-new; }
+.#{$ionicons-prefix}attribute-icon-yeni:before { content: $ionicon-var-attribute-icon-yeni; }
 .#{$ionicons-prefix}backspace:before { content: $ionicon-var-backspace; }
 .#{$ionicons-prefix}backspace-outline:before { content: $ionicon-var-backspace-outline; }
 .#{$ionicons-prefix}bag:before { content: $ionicon-var-bag; }
@@ -916,6 +949,29 @@
 .#{$ionicons-prefix}camera:before { content: $ionicon-var-camera; }
 .#{$ionicons-prefix}card:before { content: $ionicon-var-card; }
 .#{$ionicons-prefix}cash:before { content: $ionicon-var-cash; }
+.#{$ionicons-prefix}category-chicken-icon:before { content: $ionicon-var-category-chicken-icon; }
+.#{$ionicons-prefix}category-desert-icon:before { content: $ionicon-var-category-desert-icon; }
+.#{$ionicons-prefix}category-drink-icon:before { content: $ionicon-var-category-drink-icon; }
+.#{$ionicons-prefix}category-freshdrink-icon:before { content: $ionicon-var-category-freshdrink-icon; }
+.#{$ionicons-prefix}category-maki-icon:before { content: $ionicon-var-category-maki-icon; }
+.#{$ionicons-prefix}category-meat-icon:before { content: $ionicon-var-category-meat-icon; }
+.#{$ionicons-prefix}category-menu-icon:before { content: $ionicon-var-category-menu-icon; }
+.#{$ionicons-prefix}category-menu-icon2:before { content: $ionicon-var-category-menu-icon2; }
+.#{$ionicons-prefix}category-nigiri-icon:before { content: $ionicon-var-category-nigiri-icon; }
+.#{$ionicons-prefix}category-noodle-icon:before { content: $ionicon-var-category-noodle-icon; }
+.#{$ionicons-prefix}category-rice-icon:before { content: $ionicon-var-category-rice-icon; }
+.#{$ionicons-prefix}category-salad-icon:before { content: $ionicon-var-category-salad-icon; }
+.#{$ionicons-prefix}category-sashimi-icon:before { content: $ionicon-var-category-sashimi-icon; }
+.#{$ionicons-prefix}category-seafood-icon:before { content: $ionicon-var-category-seafood-icon; }
+.#{$ionicons-prefix}category-soup-icon:before { content: $ionicon-var-category-soup-icon; }
+.#{$ionicons-prefix}category-special-icon:before { content: $ionicon-var-category-special-icon; }
+.#{$ionicons-prefix}category-starter-icon:before { content: $ionicon-var-category-starter-icon; }
+.#{$ionicons-prefix}category-sushimenu-icon:before { content: $ionicon-var-category-sushimenu-icon; }
+.#{$ionicons-prefix}category-sushimenu-icon2:before { content: $ionicon-var-category-sushimenu-icon2; }
+.#{$ionicons-prefix}category-uramaki-icon:before { content: $ionicon-var-category-uramaki-icon; }
+.#{$ionicons-prefix}category-uramaki-icon2:before { content: $ionicon-var-category-uramaki-icon2; }
+.#{$ionicons-prefix}category-vegan-icon:before { content: $ionicon-var-category-vegan-icon; }
+.#{$ionicons-prefix}category-vegetable-icon:before { content: $ionicon-var-category-vegetable-icon; }
 .#{$ionicons-prefix}chatbox:before { content: $ionicon-var-chatbox; }
 .#{$ionicons-prefix}chatbox-working:before { content: $ionicon-var-chatbox-working; }
 .#{$ionicons-prefix}chatboxes:before { content: $ionicon-var-chatboxes; }

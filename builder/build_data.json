@@ -1,5 +1,5 @@
 {
-  "build_hash": "e8e0d461cc44800af15d879d18b2b7e2",
+  "build_hash": "35562c30fa93906bc7d2b391112d67b5",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -633,6 +633,26 @@
       "name": "at"
     },
     {
+      "code": "0xf175",
+      "name": "attribute-icon-garlic"
+    },
+    {
+      "code": "0xf177",
+      "name": "attribute-icon-hot"
+    },
+    {
+      "code": "0xf176",
+      "name": "attribute-icon-hot-alternative"
+    },
+    {
+      "code": "0xf178",
+      "name": "attribute-icon-new"
+    },
+    {
+      "code": "0xf179",
+      "name": "attribute-icon-yeni"
+    },
+    {
       "code": "0xf3bf",
       "name": "backspace"
     },
@@ -715,6 +735,98 @@
     {
       "code": "0xf316",
       "name": "cash"
+    },
+    {
+      "code": "0xf15e",
+      "name": "category-chicken-icon"
+    },
+    {
+      "code": "0xf15f",
+      "name": "category-desert-icon"
+    },
+    {
+      "code": "0xf160",
+      "name": "category-drink-icon"
+    },
+    {
+      "code": "0xf161",
+      "name": "category-freshdrink-icon"
+    },
+    {
+      "code": "0xf162",
+      "name": "category-maki-icon"
+    },
+    {
+      "code": "0xf163",
+      "name": "category-meat-icon"
+    },
+    {
+      "code": "0xf164",
+      "name": "category-menu-icon"
+    },
+    {
+      "code": "0xf165",
+      "name": "category-menu-icon2"
+    },
+    {
+      "code": "0xf166",
+      "name": "category-nigiri-icon"
+    },
+    {
+      "code": "0xf167",
+      "name": "category-noodle-icon"
+    },
+    {
+      "code": "0xf168",
+      "name": "category-rice-icon"
+    },
+    {
+      "code": "0xf169",
+      "name": "category-salad-icon"
+    },
+    {
+      "code": "0xf16a",
+      "name": "category-sashimi-icon"
+    },
+    {
+      "code": "0xf16b",
+      "name": "category-seafood-icon"
+    },
+    {
+      "code": "0xf16c",
+      "name": "category-soup-icon"
+    },
+    {
+      "code": "0xf16d",
+      "name": "category-special-icon"
+    },
+    {
+      "code": "0xf16e",
+      "name": "category-starter-icon"
+    },
+    {
+      "code": "0xf16f",
+      "name": "category-sushimenu-icon"
+    },
+    {
+      "code": "0xf170",
+      "name": "category-sushimenu-icon2"
+    },
+    {
+      "code": "0xf171",
+      "name": "category-uramaki-icon"
+    },
+    {
+      "code": "0xf172",
+      "name": "category-uramaki-icon2"
+    },
+    {
+      "code": "0xf173",
+      "name": "category-vegan-icon"
+    },
+    {
+      "code": "0xf174",
+      "name": "category-vegetable-icon"
     },
     {
       "code": "0xf11b",
