@@ -1,5 +1,5 @@
 {
-  "build_hash": "7fec4a1fd64c6275f5e62d261d76aa3d",
+  "build_hash": "aeeafdbe63d4093cb4705e1ece7074f9",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -973,6 +973,26 @@
       "name": "chevron-up"
     },
     {
+      "code": "0xf17d",
+      "name": "cinbufe-logo"
+    },
+    {
+      "code": "0xf17e",
+      "name": "cinbufe-logo-figure"
+    },
+    {
+      "code": "0xf17a",
+      "name": "cinbufe-logo-icon"
+    },
+    {
+      "code": "0xf17c",
+      "name": "cinbufe-logo-text"
+    },
+    {
+      "code": "0xf17b",
+      "name": "cinbufe-logo-text-full"
+    },
+    {
       "code": "0xf127",
       "name": "clipboard"
     },
@@ -1039,6 +1059,10 @@
     {
       "code": "0xf318",
       "name": "cube"
+    },
+    {
+      "code": "0xf17f",
+      "name": "delivery-box"
     },
     {
       "code": "0xf12d",
